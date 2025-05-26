@@ -2,9 +2,13 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>cal poly </title>
+        <title>Cal Poly </title>
         <link rel="stylesheet" href="../styles.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+        <!-- Google fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
     </head>
     <body>
         <header>
@@ -18,13 +22,22 @@
                 </div>
             </nav>
         </header>
-        <h1> cal poly </h1>
-        <p> i attended cal poly slo from 2020 - 2024 studying computer engineering! 
-            this page is a quick summary of some of the courses i've gotten to take 
-            and programs i've been a part of during my time in slo!
+        <h1> Cal Poly </h1>
+        <p> I attended Cal Poly Slo from 2020 - 2024 studying computer engineering.
+            This page is a quick summary of some of the courses i've gotten to take 
+            and programs i've been a part of during my time in slo.
         </p>
         <h2>Relevant Coursework</h2>
-        <ul>
+        <div class="filters">
+            <button onclick="filterCourses('all')">All</button>
+            <button onclick="filterCourses('major')">Major</button>
+            <button onclick="filterCourses('ge')">GE</button>
+          </div>
+          
+          <div id="courses"></div>
+          
+          <script src="../scripts/courses.js"></script>
+        <!-- <ul>
             <li>CSC 101: Introduction to Computer Science</li>
             <li>CSC 202: Data Structures and Algorithms</li>
             <li>CSC 203: Object-Oriented Programming</li>
@@ -38,7 +51,7 @@
             <li>CPE 464: Computer Networks</li>
             <li>CPE 453: Operating Systems</li>
             <li>EE 428:  Computer Vision</li>
-        </ul>
+        </ul> -->
         <iframe src="https://www.google.com/maps/d/embed?mid=1HzuVy3AobyUQ-M_5sMAuhJIWJFLQuHs&ehbc=2E312F&noprof=1" 
                 width="640" 
                 height="480">

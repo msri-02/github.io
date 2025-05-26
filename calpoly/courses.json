@@ -1,0 +1,182 @@
+[
+    {
+        "title": "CPE 123",
+        "name": "Introduction to Computing, Robotics",
+        "category": "major",
+        "quarter": "Fall 2020"
+    },
+    {
+        "title": "ES 112",
+        "name": "Race, Culture, and Politics in the US",
+        "category": "major",
+        "quarter": "Fall 2020"
+    },
+    {
+        "title": "COMS 101",
+        "name": "Public Speaking",
+        "category": "ge",
+        "quarter": "Fall 2020"
+    },
+    {
+        "title": "CSC 101",
+        "name": "Fundamentals of Computer Science",
+        "category": "major",
+        "quarter": "Winter 2021"
+    },
+    {
+        "title": "ENG 149",
+        "name": "Technical Writing for Engineers",
+        "category": "major",
+        "quarter": "Winter 2021"
+    },
+    {
+        "title": "EE 113/EE 143",
+        "name": "Electrical Circuit Analysis I",
+        "category": "major",
+        "quarter": "Spring 2021"
+    },
+    {
+        "title": "CPE 133",
+        "name": "Digital Design",
+        "category": "major",
+        "quarter": "Fall 2021"
+    },
+    {
+        "title": "CPE 202",
+        "name": "Data Structures",
+        "category": "major",
+        "quarter": "Winter 2022"
+    },
+    {
+        "title": "CSC 203",
+        "name": "Object-Oriented Programming",
+        "category": "major",
+        "quarter": "Winter 2022"
+    },
+    {
+        "title": "EE 211/241",
+        "name": "Electrical Circuit Analysis II",
+        "category": "major",
+        "quarter": "Winter 2022"
+    },
+    {
+        "title": "CPE 233",
+        "name": "Computer Design & Assembly",
+        "category": "major",
+        "quarter": "Winter 2022"
+    },
+    {
+        "title": "CSC 248",
+        "name": "Discrete Structures",
+        "category": "major",
+        "quarter": "Spring 2022"
+    },
+    {
+        "title": "CHEM 124",
+        "name": "Gen Chem",
+        "category": "support",
+        "quarter": "Spring 2022"
+    },
+    {
+        "title": "CSC 357",
+        "name": "Systems Programming",
+        "category": "major",
+        "quarter": "Fall 2022"
+    },
+    {
+        "title": "EE 327/367",
+        "name": "Digital Signals and Systems",
+        "category": "support",
+        "quarter": "Fall 2022"
+    },
+    {
+        "title": "CPE 333",
+        "name": "Computer Hardware Architecture and Design",
+        "category": "major",
+        "quarter": "Winter 2023"
+    },
+    {
+        "title": "CSC 323",
+        "name": "Cryptography",
+        "category": "elective",
+        "quarter": "Winter 2023"
+    },
+    {
+        "title": "RELS 374",
+        "name": "Religion and Violence",
+        "category": "ge",
+        "quarter": "Winter 2023"
+    },
+    {
+        "title": "CPE 316",
+        "name": "Microcontroller & Embedded Applications",
+        "category": "major",
+        "quarter": "Spring 2023"
+    },
+    {
+        "title": "STAT 350",
+        "name": "Probability & Random Processes",
+        "category": "support",
+        "quarter": "Spring 2023"
+    },
+    {
+        "title": "ART 122",
+        "name": "Intro to Digital Photography",
+        "category": "ge",
+        "quarter": "Summer 2023"
+    },
+    {
+        "title": "CSC 349",
+        "name": "Design & Analysis of Algorithms",
+        "category": "major",
+        "quarter": "Fall 2023"
+    },
+    {
+        "title": "EE 306/346",
+        "name": "Semiconductor Device Electronics",
+        "category": "major",
+        "quarter": "Fall 2023"
+    },
+    {
+        "title": "CPE 350",
+        "name": "Capstone I",
+        "category": "major",
+        "quarter": "Fall 2023"
+    },
+    {
+        "title": "CPE 464",
+        "name": "Computer Networks",
+        "category": "major",
+        "quarter": "Winter 2024"
+    },
+    {
+        "title": "CPE 450",
+        "name": "Capstone II",
+        "category": "major",
+        "quarter": "Winter 2024"
+    },
+    {
+        "title": "CSC 307",
+        "name": "Intro to Software Engineering",
+        "category": "major",
+        "quarter": "Spring 2024"
+    },
+    {
+        "title": "CSC 453",
+        "name": "Operating Systems",
+        "category": "major",
+        "quarter": "Spring 2024"
+    },
+    {
+        "title": "MU 120",
+        "name": "Music Appreication",
+        "category": "ge",
+        "quarter": "Fall 2024"
+    },
+    {
+        "title": "EE 428",
+        "name": "Computer Vision",
+        "category": "major",
+        "quarter": "Fall 2024"
+    }
+]
